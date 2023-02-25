@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola 👋 mi nombre es Esteban Morales
 
-<!--
-**devemora/devemora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En mi perfil de GitHub, podrás ver mi experiencia en desarrollo y mi capacidad de autoaprendizaje.
+Además, mi experiencia en el desarrollo de proyectos personales demuestra mi capacidad para aprender de forma autónoma y asumir nuevos desafíos.
 
-Here are some ideas to get you started:
+## 🔍 Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollador FrontEnd
+- Aprendiendo React y Node
+
+### 📚 Cursos
+
+- [Curso Node Fernando Herrera](https://github.com/devemora/curso-node)
+
+### 👨‍💻 Proyectos
+
+- [Prueba Tecnica con Angular y redux usando RxJs](https://github.com/devemora/Prueba-tecnica-con-RxJs)
