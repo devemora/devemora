@@ -15,3 +15,4 @@ Además, mi experiencia en el desarrollo de proyectos personales demuestra mi ca
 ### 👨‍💻 Proyectos
 
 - [Prueba Tecnica con Angular y redux usando RxJs](https://github.com/devemora/Prueba-tecnica-con-RxJs)
+- [Clon de Chatgpt](https://github.com/JohannRojas/chatGPT-clon)
